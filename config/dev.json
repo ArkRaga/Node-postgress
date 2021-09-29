@@ -1,0 +1,7 @@
+{
+  "database_user": "Jarvis",
+  "database_password": "Jarvis",
+  "database_host": "localhost",
+  "database_name": "fruit_market",
+  "database_port": 5433
+}
